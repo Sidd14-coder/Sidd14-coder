@@ -1,25 +1,25 @@
 # 💫 Hi 👋, I'm Siddhesh Chavan
-**👨‍💻 Computer Engineering Student @ Thakur Polytechnic | 🤖 AIML Dreamer And Enthusiast | 🚀 Future Tech Creator From India**
+*👨‍💻 Computer Engineering Student @ Thakur Polytechnic | 🤖 AIML Dreamer And Enthusiast | 🚀 Future Tech Creator From India*
 
-Email Me 👉 ✉️ **sidd73129@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉ *sidd73129@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 🚀 BudgetBee – A Personal Finance Manager 💰🐝  
-- 🌱 **I’m currently learning:** ⚡ MERN Stack & 📱 React Native  
-- 👯 **I’m looking to collaborate on:** 🤝 Exciting AIML & Web Development Projects  
-- 🤔 **I’m looking for help with:** 🐝 BudgetBee (new features & improvements)  
-- 💬 **Ask me about:** 💻 Collaboration, Tech Support, or AIML Concepts  
-- 📫 **How to reach me:** 📧 sidd73129@gmail.com  
-- 😄 **Pronouns:** Siddhesh Chavan 🙋‍♂️  
+- 🔭 *I’m currently working on:* 🚀 BudgetBee – A Personal Finance Manager 💰🐝  
+- 🌱 *I’m currently learning:* ⚡ MERN Stack & 📱 React Native  
+- 👯 *I’m looking to collaborate on:* 🤝 Exciting AIML & Web Development Projects  
+- 🤔 *I’m looking for help with:* 🐝 BudgetBee (new features & improvements)  
+- 💬 *Ask me about:* 💻 Collaboration, Tech Support, or AIML Concepts  
+- 📫 *How to reach me:* 📧 sidd73129@gmail.com  
+- 😄 *Pronouns:* ⚡ CodeWithSidd
 - ⚡ Fun fact: 🤖 AIML is on my bucket list… but first, MERN is teaching me patience 😅
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sidd14-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌐 Socials:
+## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siiidd_14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidd73129@gmail.com) 
 
 <!-- Snake Game Repo View -->
-
+## 🐍 Fun Animation 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -31,7 +31,7 @@ Email Me 👉 ✉️ **sidd73129@gmail.com** For Collaboration/Project or Anythi
 ![](https://nirzak-streak-stats.vercel.app/?user=Sidd14-coder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidd14-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
